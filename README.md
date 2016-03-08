@@ -1,6 +1,6 @@
 # 李健莹
 
-[![](https://img.shields.io/badge/download-pdf-green.svg)](https://github.com/lijy91/resume/raw/master/resume.pdf)
+[![](https://img.shields.io/badge/download-pdf-green.svg)](https://github.com/lijy91/resume/raw/master/JianyingLi_Android.pdf)
 
 ### 联系方式
 - 手机 / 微信：18148920091
