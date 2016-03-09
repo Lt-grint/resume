@@ -8,6 +8,7 @@
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
 - 博客：[http://blog.jianying.li](http://blog.jianying.li)
+
 ### 技能清单
 - 熟练使用 Java、Android SDK 及一些常用库进行开发
 - 熟悉 Android / iOS 项目从需求到上线的完整流程
