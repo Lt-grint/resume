@@ -1,6 +1,6 @@
 # 李健莹
 
-[![](https://img.shields.io/badge/download-pdf-green.svg)](https://github.com/lijy91/resume/raw/master/JianyingLi_Android.pdf)
+![](https://img.shields.io/badge/download-pdf-gray.svg)
 
 - 期望职位：Android 工程师 (深圳)
 - 1991年 / 4年工作经验
@@ -89,6 +89,10 @@ http://www.wandoujia.com/apps/com.skeps.weight
     技术细节：
     - 首次使用 Android Studio 进行开发
     - 使用蓝牙4.0进行智能手环和电子称的数据通讯
+
+### 教育经历
+
+- 深圳大学（自考中），**计算机信息管理（本科）**（2016年3月 - 至今）
 
 ### 开源项目
 - [BlankApp](https://github.com/lijy91/BlankApp)
