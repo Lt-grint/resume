@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/download-pdf-gray.svg)
 
 - 期望职位：Android 工程师 (深圳)
-- 1991年 / 5年工作经验
+- 1991年 / 5年工作经验（近2年半从事 Android 开发）
 - 手机 / 微信：18148920091
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
