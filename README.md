@@ -3,34 +3,58 @@
 ![](https://img.shields.io/badge/download-pdf-gray.svg)
 
 - 期望职位：Android 工程师 (深圳)
-- 1991年 / 4年工作经验
+- 1991年 / 5年工作经验
 - 手机 / 微信：18148920091
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
 - 博客：[http://blog.jianying.li](http://blog.jianying.li)
 
 ### 技能清单
-- 熟练使用 Java、Android SDK 及一些常用库进行开发
+- 精通 Java、Android SDK 开发
 - 熟悉 Android / iOS 项目从需求到上线的完整流程
 - 熟悉一些前端技术 HTML、CSS、JavaScript 等
 - 熟练 MySQL、SQLite，有近两年的 Oracle 开发经验
+- 了解 Docker 的使用，对前端技术如 Angular、Vue.js 有一定的了解
 - 了解 Swift，有完整的 iOS 项目开发经验
-- 最近3年使用 Mac OS X 进行日常开发工作
+- 熟练使用 Git 等版本控制工具
+- 熟练使用常用的 bash 命令， 近3年使用 Mac OS X 进行日常开发工作
 
 ### 自我评价
-项目经验丰富，对代码质量要求严格，超强的主动学习能力和解决问题的能力。乐于学习钻研新技术，对产品设计、用户体验有一定的理解，热爱开源，关注开发体验，优化软件交付方式。
+热爱开源，乐于分享，对自己编码规范要求严格，超强的学习能力和解决问题的能力，对于新技术。从不将自己局限于技术层面，对产品设计、用户体验也有一定自己的理解。
 
 ### 工作经历
+- 深圳市美学互联网有限公司（2016年3月 - 至今）
+> 担任技术负责人，主导产品美学App的开发及技术团队的组建工作，对产品的设计及产品需求提供建议及指导，期间推动了 Git Flow 的实践。
+
 - 深圳萌萌车生活科技有限公司（2014年3月 - 2016年3月）
-> 担任项目经理、Android 工程师，主导完成产品萌萌学车 App 的需求分析、项目管理、开发工作和 API 设计，期间推动了 Git Flow 及持续集成在公司的实践。另外负责一些外部项目的需求分析、项目管理及开发工作。
+> 担任项目经理、Android 工程师，主导完成产品萌萌学车 App 的需求分析、项目管理、开发工作和 API 设计，推动了持续集成在公司的实践，另外负责一些外部项目的需求分析、项目管理及开发工作。
 
 - 骏骋信息科技（上海）有限公司（2011年9月 — 2013年8月）
 > 担任 VB.NET 工程师，负责项目文档撰写，编码，测试工作，参与项目前期技术调研，期间在 Oracle 数据库开发取得了长足的进步，且养成了良好的文档编写习惯。
 
 ### 项目经验
-- 萌萌学车，**5人团队开发**（2015年6月 - 至今）
+
+- 美学，**4人团队开发**（2015年7月 - 至今）
+> 艺术图片短视频兴趣交流社区
+> Android: http://wandoujia.com/apps/com.meixueapp.app
+> iOS: https://appsto.re/cn/lvTf9.i
+
+    项目职责：
+    - 负责项目的需求分析、相关文档编写、进度控制、代码 Review
+    - 负责项目 API 的设计及开发工作（RESTful 风格）
+    - 负责服务端、Android版及 iOS 1.0版本（Swift）的开发
+
+    技术细节：
+    - 使用 Swagger 来编写项目 RESTful API 文档
+    - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
+    - 使用 Vue.js 开发管理后台
+    - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
+    - 基于自己开发的 [BlankApp](https://github.com/lijy91/BlankApp) 框架开发Android版
+
+
+- 萌萌学车，**5人团队开发**（2015年6月 - 2016年3月）
 > 萌萌学车是一个O2O学车平台，重新定义学车模式，让天下没有难考的驾照。
-    http://wandoujia.com/apps/com.mmxueche.app
+> http://wandoujia.com/apps/com.mmxueche.app
 
     项目职责：
     - 负责项目需求分析、进度安排、质量控制
@@ -47,27 +71,10 @@
     - 使用极光推送实现消息推送
     - 使用 Markdown 进行文档的编写
 
-- 美学，**4人团队开发**（2015年7月 - 2015年12月）
-> 艺术图片短视频兴趣交流社区
-    Android: http://wandoujia.com/apps/com.meixueapp.app
-    iOS: https://appsto.re/cn/lvTf9.i
-
-    项目职责：
-    - 负责需求分析、进度安排、质量控制，Android / iOS 版的设计及开发，相关文档的编写
-
-    技术细节：
-    - 使用七牛存储用户上传的照片及视频数据
-    - 使用友盟实现应用统计分析、社交分享
-    - [Android] 使用 Vitamio 实现全格式视频播放
-    - [iOS] 使用 Swift 2.0 进行开发（最开始使用1.x，后进行了一次重构）
-    - [iOS] 使用 CocoaPods 管理第三方依赖库
-    - [iOS] 使用 Alamofire HTTP 框架
-    - [iOS] 使用 SnapKit 对 AutoLayout 代码进行优化
-    - [iOS] 使用 ObjectMapper + SwiftyJSON 对服务端数据进行转换解析
 
 - 花果山水果商城，**3人团队开发**（2015年4月 - 2015年7月）
 > 花果山是专业的进口水果和国产高端水果的网上购物商城。
-http://www.wandoujia.com/apps/com.huaguoshan.app
+> http://www.wandoujia.com/apps/com.huaguoshan.app
 
     项目职责：
     - 负责与客户对接需求，完成 Android 版的开发测试上线工作
@@ -78,17 +85,6 @@ http://www.wandoujia.com/apps/com.huaguoshan.app
     - 使用 EventBus 进行组件间通讯
     - 使用 Ping++ 接入微信支付及支付宝
     - 使用极光推送实现消息推送
-
-- 十二篮，**独立开发**（2014年3月 -  2014年7月）
-> 十二篮是汤臣倍健旗下的互联网健康管理品牌。
-http://www.wandoujia.com/apps/com.skeps.weight
-
-    项目职责：
-    - 负责 Android 平台蓝牙4.0技术调研及 App 开发、测试、上线
-
-    技术细节：
-    - 首次使用 Android Studio 进行开发
-    - 使用蓝牙4.0进行智能手环和电子称的数据通讯
 
 ### 教育经历
 
