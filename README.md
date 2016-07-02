@@ -4,7 +4,7 @@
 
 - 期望职位：Android 工程师 (深圳)
 - 1991年 / 5年工作经验（近2年半从事 Android 开发）
-- 手机 / 微信：18148920091
+- 手机 / 微信：18148****91
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
 - 博客：[http://blog.jianying.li](http://blog.jianying.li)
@@ -93,6 +93,8 @@
 ### 开源项目
 - [BlankApp](https://github.com/lijy91/BlankApp)
 一个 Android 个人经验框架，用于优化开发体验，减少代码量
+- [blankapp-validation](https://github.com/lijy91/blankapp-validation)
+专注于 Android 表单验证，用方法链构建你的验证规则。
 - [ci-android](https://github.com/lijy91/ci-android)
 基于 Docker 的 Android 编译环境镜像，可用于 Android 应用的持续集成
 - [daocloud-plus](https://github.com/lijy91/daocloud-plus)
