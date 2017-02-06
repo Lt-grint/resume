@@ -35,8 +35,10 @@
 
 - daza.io **全端独立开发**（2016年10月 - 至今）
 > 是一款基于技能树的技术内容聚合应用，独立开发并且全端开源。
-> 主页：https://daza.io（正在备案其他域名暂时下线）
-> 客户端: http://a.app.qq.com/o/simple.jsp?pkgname=io.daza.app
+
+  - 主页：https://daza.io
+    >（正在备案其他域名暂时下线）
+  - 客户端: http://a.app.qq.com/o/simple.jsp?pkgname=io.daza.app
 
     项目职责：
     - 独立完成整个项目的设计、编码及文档编写。
@@ -49,8 +51,9 @@
 
 - 美学，**4人团队开发**（2015年7月 - 2016年10月）
 > 艺术图片短视频兴趣交流社区
-> Android: http://wandoujia.com/apps/com.meixueapp.app
-> iOS: https://appsto.re/cn/lvTf9.i
+
+  - Android: http://wandoujia.com/apps/com.meixueapp.app
+  - iOS: https://appsto.re/cn/lvTf9.i
 
     项目职责：
     - 负责项目的需求分析、相关文档编写、进度控制、代码 Review
@@ -67,7 +70,8 @@
 
 - 萌萌学车，**5人团队开发**（2015年6月 - 2016年3月）
 > 萌萌学车是一个O2O学车平台，重新定义学车模式，让天下没有难考的驾照。
-> http://wandoujia.com/apps/com.mmxueche.app
+
+  - Android: http://wandoujia.com/apps/com.mmxueche.app
 
     项目职责：
     - 负责项目需求分析、进度安排、质量控制
@@ -87,7 +91,8 @@
 
 - 花果山水果商城，**3人团队开发**（2015年4月 - 2015年7月）
 > 花果山是专业的进口水果和国产高端水果的网上购物商城。
-> http://www.wandoujia.com/apps/com.huaguoshan.app
+
+  - Android: http://www.wandoujia.com/apps/com.huaguoshan.app
 
     项目职责：
     - 负责与客户对接需求，完成 Android 版的开发测试上线工作
