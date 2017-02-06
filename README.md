@@ -5,7 +5,7 @@
 - 手机 / 微信：18148920091
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
-- 博客：[http://www.jianshu.com/users/7f33d5b97f55/latest_articles](http://www.jianshu.com/users/7f33d5b97f55/latest_articles)
+- 博客：[https://thecode.me](https://thecode.me)
 
 ### 技能清单
 - 精通 Java、Android SDK 开发
@@ -21,7 +21,7 @@
 热爱开源，乐于分享，对自己编码规范要求严格，超强的学习能力和解决问题的能力，从不将自己局限于技术层面，对产品设计、用户体验也有一定自己的理解。
 
 ### 工作经历
-- 深圳市美学互联网有限公司（2016年3月 - 至今）
+- 深圳市美学互联网有限公司（2016年3月 - 2016年10月）
 > 担任技术负责人，主导产品美学App的开发及技术团队的组建工作，对产品的设计及产品需求提供建议及指导，期间推动了 Git Flow 的实践。
 
 - 深圳萌萌车生活科技有限公司（2014年3月 - 2016年3月）
@@ -32,7 +32,21 @@
 
 ### 项目经验
 
-- 美学，**4人团队开发**（2015年7月 - 至今）
+- daza.io **全端独立开发**（2016年10月 - 至今）
+> 是一款基于技能树的技术内容聚合应用，独立开发并且全端开源。
+> 主页：https://daza.io（正在备案其他域名暂时下线）
+> 客户端: http://a.app.qq.com/o/simple.jsp?pkgname=io.daza.app
+
+    项目职责：
+    - 独立完成整个项目的设计、编码及文档编写。
+
+    技术细节：
+    - 使用 Swagger 来编写项目 RESTful API 文档
+    - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
+    - 使用 Vue2 + Vuex + Webpack 开发前端
+    - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
+
+- 美学，**4人团队开发**（2015年7月 - 2016年10月）
 > 艺术图片短视频兴趣交流社区
 > Android: http://wandoujia.com/apps/com.meixueapp.app
 > iOS: https://appsto.re/cn/lvTf9.i
@@ -89,6 +103,8 @@
 - 深圳大学（自考中），**计算机信息管理（本科）**（2016年3月 - 至今）
 
 ### 开源项目
+- [daza.io](https://github.com/lijy91/daza-backend)
+独立完成的全端项目，聚合阅读应用
 - [BlankApp](https://github.com/lijy91/BlankApp)
 一个 Android 个人经验框架，用于优化开发体验，减少代码量
 - [blankapp-validation](https://github.com/lijy91/blankapp-validation)
