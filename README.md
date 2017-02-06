@@ -1,7 +1,7 @@
 # 李健莹
 
-- 期望职位：Android 工程师 (深圳)
-- 1991年 / 5年工作经验（近2年半从事 Android 开发）
+- 期望职位：前端工程师 (深圳)
+- 1991年 / 6年工作经验（近2年半从事 Android 开发）
 - 手机 / 微信：18148920091
 - 邮箱：lijy91@foxmail.com
 - GitHub：[https://github.com/lijy91](https://github.com/lijy91)
@@ -10,6 +10,7 @@
 ### 技能清单
 - 精通 Java、Android SDK 开发
 - 熟悉 Android / iOS 项目从需求到上线的完整流程
+- 熟悉 Vue.js 框架，并有完整项目开发经验
 - 熟悉一些前端技术 HTML、CSS、JavaScript 等
 - 熟练 MySQL、SQLite，有近两年的 Oracle 开发经验
 - 了解 Docker 的使用，对前端技术如 Angular、Vue.js 有一定的了解
@@ -108,10 +109,8 @@
 - [BlankApp](https://github.com/lijy91/BlankApp)
 一个 Android 个人经验框架，用于优化开发体验，减少代码量
 - [blankapp-validation](https://github.com/lijy91/blankapp-validation)
-专注于 Android 表单验证，用方法链构建你的验证规则。
+Android 表单验证库，使用方法链高效构建验证规则。
 - [ci-android](https://github.com/lijy91/ci-android)
 基于 Docker 的 Android 编译环境镜像，可用于 Android 应用的持续集成
 - [daocloud-plus](https://github.com/lijy91/daocloud-plus)
-DaoCloud+ 项目是一个 DaoCloud 迷你控制台托盘程序
-- [alfred-coding-workflow](https://github.com/lijy91/alfred-coding-workflow)
-基于 Alfred2 Workflows 的 Coding 个人项目快速搜索插件
+一个迷你的 DaoCloud 托盘控制台程序，基于 electron-vue 脚手架创建。
