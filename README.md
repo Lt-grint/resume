@@ -13,7 +13,6 @@
 - 熟悉 Vue.js 框架，并有完整项目开发经验
 - 熟悉一些前端技术 HTML、CSS、JavaScript 等
 - 熟练 MySQL、SQLite，有近两年的 Oracle 开发经验
-- 了解 Docker 的使用，对前端技术如 Angular、Vue.js 有一定的了解
 - 了解 Swift，有完整的 iOS 项目开发经验
 - 熟练使用 Git 等版本控制工具
 - 熟练使用常用的 bash 命令， 近3年使用 Mac OS X 进行日常开发工作
