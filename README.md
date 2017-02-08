@@ -39,14 +39,14 @@
     >（正在备案其他域名暂时下线）
   - 客户端: http://a.app.qq.com/o/simple.jsp?pkgname=io.daza.app
 
-    项目职责：
-    - 独立完成整个项目的设计、编码及文档编写。
+  项目职责：
+  - 独立完成整个项目的设计、编码及文档编写。
 
-    技术细节：
-    - 使用 Swagger 来编写项目 RESTful API 文档
-    - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
-    - 使用 Vue2 + Vuex + Webpack 开发前端
-    - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
+  技术细节：
+  - 使用 Swagger 来编写项目 RESTful API 文档
+  - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
+  - 使用 Vue2 + Vuex + Webpack 开发前端
+  - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
 
 - 美学，**4人团队开发**（2015年7月 - 2016年10月）
 > 艺术图片短视频兴趣交流社区
@@ -54,54 +54,52 @@
   - Android: http://wandoujia.com/apps/com.meixueapp.app
   - iOS: https://appsto.re/cn/lvTf9.i
 
-    项目职责：
-    - 负责项目的需求分析、相关文档编写、进度控制、代码 Review
-    - 负责项目 API 的设计及开发工作（RESTful 风格）
-    - 负责服务端、Android版及 iOS 1.0版本（Swift）的开发
+  项目职责：
+  - 负责项目的需求分析、相关文档编写、进度控制、代码 Review
+  - 负责项目 API 的设计及开发工作（RESTful 风格）
+  - 负责服务端、Android版及 iOS 1.0版本（Swift）的开发
 
-    技术细节：
-    - 使用 Swagger 来编写项目 RESTful API 文档
-    - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
-    - 使用 Vue.js 开发管理后台
-    - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
-    - 基于自己开发的 [BlankApp](https://github.com/lijy91/BlankApp) 框架开发Android版
-
+  技术细节：
+  - 使用 Swagger 来编写项目 RESTful API 文档
+  - 使用 PHP + Laravel5 + MySQL 进行 API 的开发（前后台分离）
+  - 使用 Vue.js 开发管理后台
+  - 使用 Docker 技术 + DaoCloud 平台部署应用到阿里云服务器
+  - 基于自己开发的 [BlankApp](https://github.com/lijy91/BlankApp) 框架开发Android版
 
 - 萌萌学车，**5人团队开发**（2015年6月 - 2016年3月）
 > 萌萌学车是一个O2O学车平台，重新定义学车模式，让天下没有难考的驾照。
 
   - Android: http://wandoujia.com/apps/com.mmxueche.app
 
-    项目职责：
-    - 负责项目需求分析、进度安排、质量控制
-    - 负责完成 Android 版的开发及 iOS 版的测试工作
-    - 负责完成项目 API 及相关文档的编写
-    - 负责推动 Git Flow 在项目的应用
-    - 负责推动持续集成（Jenkins & DaoCloudCI均有尝试）在项目的实践
-    - 负责上线 App 到国内主流应用商店及 App Store
+  项目职责：
+  - 负责项目需求分析、进度安排、质量控制
+  - 负责完成 Android 版的开发及 iOS 版的测试工作
+  - 负责完成项目 API 及相关文档的编写
+  - 负责推动 Git Flow 在项目的应用
+  - 负责推动持续集成（Jenkins & DaoCloudCI均有尝试）在项目的实践
+  - 负责上线 App 到国内主流应用商店及 App Store
 
-    技术细节：
-    - 使用自行开发的 [BlankAppCN](https://coding.net/u/lijy91/p/BlankAppCN/git) 应用框架，优化页面逻辑，简化代码
-    - 使用 Ping++ 接入微信支付及支付宝
-    - 使用 BugHD 收集崩溃信息
-    - 使用极光推送实现消息推送
-    - 使用 Markdown 进行文档的编写
-
+  技术细节：
+  - 使用自行开发的 [BlankAppCN](https://coding.net/u/lijy91/p/BlankAppCN/git) 应用框架，优化页面逻辑，简化代码
+  - 使用 Ping++ 接入微信支付及支付宝
+  - 使用 BugHD 收集崩溃信息
+  - 使用极光推送实现消息推送
+  - 使用 Markdown 进行文档的编写
 
 - 花果山水果商城，**3人团队开发**（2015年4月 - 2015年7月）
 > 花果山是专业的进口水果和国产高端水果的网上购物商城。
 
   - Android: http://www.wandoujia.com/apps/com.huaguoshan.app
 
-    项目职责：
-    - 负责与客户对接需求，完成 Android 版的开发测试上线工作
+  项目职责：
+  - 负责与客户对接需求，完成 Android 版的开发测试上线工作
 
-    技术细节：
-    - 使用 Retrofit HTTP 框架与服务端进行数据通讯
-    - 使用 ActiveAndroid ORM 库存储数据
-    - 使用 EventBus 进行组件间通讯
-    - 使用 Ping++ 接入微信支付及支付宝
-    - 使用极光推送实现消息推送
+  技术细节：
+  - 使用 Retrofit HTTP 框架与服务端进行数据通讯
+  - 使用 ActiveAndroid ORM 库存储数据
+  - 使用 EventBus 进行组件间通讯
+  - 使用 Ping++ 接入微信支付及支付宝
+  - 使用极光推送实现消息推送
 
 ### 教育经历
 
