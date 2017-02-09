@@ -37,7 +37,7 @@
 - daza.io **全端独立开发**（2016年10月 - 至今）
 > 一款基于技能树的技术内容聚合应用，独立开发并且全端开源。
 
-  - 主页：https://daza.io（正在备案其他域名暂时下线）
+  - 主页：https://daza.io
   - 客户端: http://a.app.qq.com/o/simple.jsp?pkgname=io.daza.app
 
   项目职责：
