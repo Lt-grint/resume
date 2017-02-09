@@ -49,7 +49,7 @@
   - 前端：使用 vue + vuex + vue-router + Webpack 开发前端
   - 客户端：使用原生技术进行 Android 和 iOS 两端的开发
 
-- 美学，**6人团队开发**（2015年7月 - 2016年10月）
+- 美学，**6人团队开发**（2016年3月 - 2016年10月）
 > 艺术图片短视频兴趣交流社区
 
   - Android: http://wandoujia.com/apps/com.meixueapp.app
